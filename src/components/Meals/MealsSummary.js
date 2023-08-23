@@ -9,7 +9,7 @@ const MealsSummary = () => {
       </p>
       <p>
         All the meals you get are highly recommended in the area and are made by
-        the most skilled in the area
+        the most skilled in the area.
       </p>
     </section>
   );
