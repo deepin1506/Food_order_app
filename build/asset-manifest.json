@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.db2ea59f.css",
+    "main.js": "/static/js/main.c65119db.js",
+    "static/media/DeepCraving.jpg": "/static/media/DeepCraving.0a0b5243b76e71f45159.jpg",
+    "index.html": "/index.html",
+    "main.db2ea59f.css.map": "/static/css/main.db2ea59f.css.map",
+    "main.c65119db.js.map": "/static/js/main.c65119db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db2ea59f.css",
+    "static/js/main.c65119db.js"
+  ]
+}
