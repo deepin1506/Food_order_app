@@ -1,7 +1,7 @@
 import classes from "./Checkout.module.css";
 import { useRef, useState } from "react";
 const isEmpty = (value) => value.trim() === "";
-const sixChars = (value) => value.trim().length !== 6;
+const sixChars = (value) => value.trim().length === 6;
 const Checkout = (props) => {
   const [formInputValidity, setformInputValidity] = useState({
     name: true,
